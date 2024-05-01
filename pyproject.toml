@@ -8,7 +8,7 @@ packages = [{include = "censusdis_intro"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
-censusdis = "^1.1.5"
+censusdis = "^1.1.6"
 jupyterlab = "^4.1.6"
 
 
